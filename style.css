@@ -1,0 +1,103 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+}
+.food{
+    width:50%;
+    font-size: 30px;
+    margin-left: 40px;
+}
+ span{
+    color:deeppink;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(green , blue);
+    padding:10px 20px;
+    border-radius: 20px;
+    color:rgb(250, 243, 243);
+}
+.first{
+    display:flex;
+    padding-left:15px;
+    margin-bottom: 100px;
+}
+.food img{
+    width:80%;
+}
+
+.soft{
+    padding-top: 30px;
+}
+.second{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin:10px;
+}
+.pic{
+    height:570px;
+    padding-top:30px;
+}
+.line p{
+   font-size: small;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+.line h1{
+    color:rgb(61, 28, 28);
+}
+.third{
+    display:flex;
+    width:50%;
+    margin-left: 50px;
+ }
+ .joy img{
+   width:250px;
+   height:200px;
+
+ }
+ .joy{
+   margin:50px;
+   margin-left:60px;
+   box-shadow: 5px 5px 15px rgb(170, 48, 48);
+   padding:20px;
+   border-radius: 10px;
+   font-size: 11px;
+   font-weight: 100;
+   color: black;
+ }
+ .joy h2{
+     color:black;
+     font-size: 30px;
+
+ }
+ .menu{
+     text-align: center;
+     margin-left: 400px;
+     margin-right: 400px;
+ }
+ .a{
+     margin-left:150px;
+ }
+ .b{
+     margin-left: 150px;
+ }
+ .c{
+     margin-left: 150px;
+ }
+ .fourth{
+     width:80%;
+     margin:auto;
+     box-shadow:  3px 3px  10px rgb(133, 19, 19);
+     border-radius: 3px;
+     margin-bottom: 30px;
+ }
+ footer{
+     text-align: center;
+     background-color: skyblue;
+     margin-top:0;
+     padding:10px;
+    }
+    footer h1{
+        font-size: 20px;
+    }
